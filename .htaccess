@@ -1,0 +1,22 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.magnat.org$ [NC]
+RewriteRule ^(.*)$ http://www.euphoria-imaging.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^magnat.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.magnat.org$
+RewriteRule (.*)$ http://www.euphoria-imaging.com//$1 [R=301,L]
+
+Redirect /paris.html http://paris-hilton.euphoria-imaging.com/index.html
+
+AddCharset UTF-8 .html
+
+<FilesMatch "\.(ico|jpg|jpeg|png|gif|js|css|swf)$">
+ExpiresActive on 
+ExpiresDefault "access plus 1 month"
+</FilesMatch>
+
+
+

@@ -1,0 +1,15 @@
+@import url("reset.css");
+body{
+	width:100%; 
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	color: #000;
+	line-height: 1.4;
+	background: #FFF;
+}
+.photos{
+	background: url("../img/proj-botle.jpg") no-repeat;
+	width: 600px;
+	height: 776px;
+	cursor: pointer;
+}

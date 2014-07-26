@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /lj
+
+Disallow: /temp
+
+Disallow: /webstat
+
+Disallow: /link.html
+
+Disallow: /index-expert.html
+
+Disallow: /index-let.html
+
+Disallow: /index-restoration.html
+
+Disallow: /index-modelmayhem.html
+
+Disallow: /index-modelmayhem2.html
+
+Disallow: /index-ru.html
+

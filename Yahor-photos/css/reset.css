@@ -1,0 +1,74 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,header,nav,section,article,aside,footer,figure,figcaption,details,hgroup{padding:0;margin:0; outline:0}
+html{height:100%}
+html,body{ line-height: 1}
+caption,th {text-align:left}
+table {border-collapse:collapse; border-spacing:0}
+h1,h2,h3,h4,h5,h6 {font-size:1em; line-height: 1.2}
+img {border:0;vertical-align:top;width:auto;height:auto}
+ul,ol {list-style-type:none}
+a:focus, a:active {outline:none}
+a{cursor:pointer;text-decoration: underline}
+.clr {clear:both; height:1px; font-size:1px; visibility:hidden; line-height: 0px;zoom:1; margin-top: -1px; height: 0px; overflow: hidden}
+:focus,
+a:hover,
+a:active{outline:none}
+header,nav,section,article,aside,footer,figure,figcaption,details,hgroup {display: block}
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+audio:not([controls]) {display: none}
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  font-size: 100%;
+  vertical-align: middle;
+}
+button,
+input {
+  *overflow: visible;
+  line-height: normal;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+input[type="search"] {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+  -webkit-appearance: textfield;
+}
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+.clearfix {*zoom: 1}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+.clearfix:after {clear: both}
