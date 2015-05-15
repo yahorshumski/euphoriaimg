@@ -10,6 +10,13 @@
 *.fla
 *.zip
 *.rar
+*.wbm
+
+
+#################
+## Sublime
+#################
+
 
 
 #################
@@ -227,3 +234,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.BridgeCache
+.BridgeCacheT
+euphoria.sublime-workspace
+euphoria.sublime-workspace

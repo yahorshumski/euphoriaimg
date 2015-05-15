@@ -1,0 +1,55 @@
+#menu {
+	font: 10pt arial,helvetica,sans-serif;
+	padding: 0px 0px 0px 0px;
+
+}
+#menu LI{float:left;list-style:none;padding-right:50px}
+#menu A{display:block;padding:2px 3px 4px;color:#ffffff;background:#20262e}
+#menu A:hover{background:#3399ff}
+#menu LI.cur A{background:#ff4800;color:#ffffff}
+#menu LI.cur A:hover{background:#ff4800}
+
+#text p{
+	font: 10pt arial,helvetica,sans-serif;
+	color: #ffffff;
+	margin: 0 0 0 0;
+	padding: 0 0 0;
+}
+
+#text2 p{
+	font: 9pt arial,helvetica,sans-serif;
+	color: #ffffff;
+	margin: 0 0 0 0;
+	padding: 0 0 0;
+}
+
+#text a{
+	font: 9pt arial,helvetica,sans-serif;
+	color: #3399ff;
+}
+
+#text2 a{
+	font: 9pt arial,helvetica,sans-serif;
+	color: #3399ff;
+}
+
+#text {
+	padding: 0 0 0 0;
+}
+
+#text a:hover {
+	font: 9pt arial,helvetica,sans-serif;
+	color: #dedede;
+	text-decoration: none;
+}
+
+#portfolio A{
+	color: #3399ff;
+	border: #ffffff;
+}
+#portfolio A:hover{color:343e4b;}
+
+#portfolio2 A{
+	color: #ffffff;
+}
+

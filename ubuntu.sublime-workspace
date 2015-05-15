@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"shop",
+				"shopPrices"
+			],
+			[
+				"best",
+				"bestShop"
+			],
+			[
+				"oder",
+				"orderList"
+			],
+			[
+				"order",
+				"orderPrice"
+			],
+			[
+				"frui",
+				"fruitShops"
+			],
+			[
+				"fru",
+				"fruitShops"
+			],
+			[
+				"fuit",
+				"fruitPrices"
+			],
+			[
+				"to",
+				"totalCost"
+			],
+			[
+				"oe",
+				"orderList"
+			],
+			[
+				"L",
+				"LowerCaseList"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"wod",
+				"wordList"
+			],
+			[
 				"bac",
 				"background"
 			],
@@ -140,50 +188,45 @@
 	"buffers":
 	[
 		{
-			"file": "portfolio/landscape-retouching.html",
+			"contents": "# buyLotsOfFruit.py\n# -----------------\n# Licensing Information:  You are free to use or extend these projects for\n# educational purposes provided that (1) you do not distribute or publish\n# solutions, (2) you retain this notice, and (3) you provide clear\n# attribution to UC Berkeley, including a link to http://ai.berkeley.edu.\n# \n# Attribution Information: The Pacman AI projects were developed at UC Berkeley.\n# The core projects and autograders were primarily created by John DeNero\n# (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).\n# Student side autograding was added by Brad Miller, Nick Hay, and\n# Pieter Abbeel (pabbeel@cs.berkeley.edu).\n\n\n\"\"\"\nTo run this script, type\n\n  python buyLotsOfFruit.py\n\nOnce you have correctly implemented the buyLotsOfFruit function,\nthe script should produce the output:\n\nCost of [('apples', 2.0), ('pears', 3.0), ('limes', 4.0)] is 12.25\n\"\"\"\n\nfruitPrices = {'apples':2.00, 'oranges': 1.50, 'pears': 1.75,\n              'limes':0.75, 'strawberries':1.00}\n\ndef buyLotsOfFruit(orderList):\n    \"\"\"\n        orderList: List of (fruit, numPounds) tuples\n\n    Returns cost of order\n    \"\"\"\n        totalCost = 0.0\n    \"*** YOUR CODE HERE ***\"\n\n\n    for fruit in orderList:\n        print fruit\n        totalCost = totalCost + (fruitPrices[fruit[0]] * fruit[1])\n                \n\n    return totalCost\n\n# Main Method\nif __name__ == '__main__':\n    \"This code runs when you invoke the script from the command line\"\n    orderList = [ ('apples', 2.0), ('pears', 3.0), ('limes', 4.0) ]\n    print 'Cost of', orderList, 'is', buyLotsOfFruit(orderList)\n",
+			"file": "/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/buyLotsOfFruit.py",
+			"file_size": 1572,
+			"file_write_time": 130686592307519220,
 			"settings":
 			{
-				"buffer_size": 5996,
+				"buffer_size": 1592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Ubuntu/user/projects/git/work/hello/index.html",
+			"settings":
+			{
+				"buffer_size": 192,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "style.css",
+			"file": "/E/Ubuntu/user/projects/git/work/hello/lib/hello.html",
 			"settings":
 			{
-				"buffer_size": 5716,
+				"buffer_size": 211,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "portfolio.html",
+			"file": "/E/Ubuntu/user/projects/git/work/hello/README",
 			"settings":
 			{
-				"buffer_size": 22150,
+				"buffer_size": 101,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "portfolio/night-camp-collage.html",
+			"file": "/E/Ubuntu/user/projects/git/work/hello/lib/style.css",
 			"settings":
 			{
-				"buffer_size": 5815,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/Chris-Linn.html",
-			"settings":
-			{
-				"buffer_size": 5838,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 10080,
+				"buffer_size": 20,
 				"line_ending": "Windows"
 			}
 		}
@@ -191,9 +234,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: up",
 				"Package Control: Upgrade/Overwrite All Packages"
@@ -209,10 +268,6 @@
 			[
 				"gith",
 				"Github: Repository"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
 			],
 			[
 				"PACK",
@@ -283,10 +338,6 @@
 				"Snippet: portofolio-item"
 			],
 			[
-				"Package Control: in",
-				"Package Control: Install Package"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			],
@@ -324,15 +375,45 @@
 	},
 	"file_history":
 	[
-		"/C/Users/User/Documents/work/site/index.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed12.html",
-		"/C/Users/User/Documents/work/site/portfolio/Chris-Linn.html",
+		"/E/Ubuntu/user/projects/git/work/hello/REAMDE",
+		"/E/Ubuntu/user/projects/git/work/hello/readme",
+		"/E/Ubuntu/user/projects/git/work/hello/hello.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/shop.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/shopSmart.py",
 		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/autograder.py",
+		"/E/Ubuntu/user/.profile",
+		"/E/Ubuntu/user/.gitconfig",
+		"/E/Ubuntu/user/projects/git/work/hello/.gitconfig",
+		"/E/Ubuntu/user/projects/mysite/mysite/settings.py",
+		"/E/Ubuntu/user/projects/mysite/requirements.txt",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/results.html",
+		"/E/Ubuntu/user/projects/mysite/polls/models.py",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/index.html",
+		"/E/Ubuntu/user/projects/mysite/polls/tests.py",
+		"/E/Ubuntu/user/projects/mysite/polls/static/polls/style.css",
+		"/E/Ubuntu/user/projects/mysite/polls/views.py",
+		"/E/Ubuntu/user/projects/mysite/polls/templates/polls/detail.html",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/foreach.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listcomp.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/shop.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/person_class.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/addition.py",
+		"/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/buyLotsOfFruit.py",
+		"/E/Ubuntu/user/projects/mysite/Procfile",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listcomp2.py",
+		"/C/Users/User/Documents/stydy/edX/AI/python_basics/listCompMine.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/.gitignore",
+		"/E/Ubuntu/user/projects/mysite/polls/urls.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/urls.py",
+		"/E/Ubuntu/user/projects/mysite/mysite/wsgi.py",
+		"/E/Ubuntu/user/projects/mysite/.git/config",
 		"/E/Ubuntu/Vagrantfile",
+		"/C/Users/User/Documents/work/site/index.html",
 		"/E/Work/Ramirez/RAWprocessed/PSD/TIFF/JPEG/5H6A6146.jpg",
 		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
 		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
-		"/E/Ubuntu/user/projects/mysite/mysite/settings.py",
 		"/C/Users/User/Documents/work/site/style.css",
 		"/C/Users/User/Documents/work/site/contact.html",
 		"/C/Users/User/Documents/stydy/companysimulation.py",
@@ -360,6 +441,7 @@
 		"/C/Users/User/Documents/work/site/rendering-service.html",
 		"/C/Users/User/Documents/work/site/retouching-testimonials.html",
 		"/C/Users/User/Documents/work/site/sendeng.php",
+		"/C/Users/User/Documents/work/site/portfolio/reed12.html",
 		"/C/Users/User/Documents/work/site/portfolio/reed13.html",
 		"/C/Users/User/Documents/work/site/portfolio/reed2.html",
 		"/C/Users/User/Documents/work/site/portfolio/reed3.html",
@@ -420,38 +502,7 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/pirate.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/product-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/reed1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed10.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed11.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed12.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed13.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed4.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed5.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed6.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed7.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed8.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed9.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration2b.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching10.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching11.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching12.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching13.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching14.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching4.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching5.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching6.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching7.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching8.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching9.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample10.html"
+		"/C/Users/User/Documents/work/site/portfolio/backup/reed10.html"
 	],
 	"find":
 	{
@@ -472,6 +523,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".",
+			"prod",
 			"\"></",
 			"synced_folder",
 			"contac",
@@ -624,345 +677,33 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "portfolio/landscape-retouching.html",
+					"file": "/C/Users/User/Documents/stydy/edX/AI/tutorial/tutorial/buyLotsOfFruit.py",
 					"settings":
 					{
-						"buffer_size": 5996,
+						"buffer_size": 1592,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2169,
-								2169
+								1325,
+								1325
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 900.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"settings":
-					{
-						"buffer_size": 5716,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2182,
-								2182
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 135.0,
@@ -971,171 +712,56 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "portfolio.html",
+					"buffer": 1,
+					"file": "/E/Ubuntu/user/projects/git/work/hello/index.html",
 					"settings":
 					{
-						"buffer_size": 22150,
+						"buffer_size": 192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1070,
-								1070
+								192,
+								192
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Ubuntu/user/projects/git/work/hello/lib/hello.html",
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1145,464 +771,58 @@
 				},
 				{
 					"buffer": 3,
-					"file": "portfolio/night-camp-collage.html",
+					"file": "/E/Ubuntu/user/projects/git/work/hello/README",
 					"settings":
 					{
-						"buffer_size": 5815,
+						"buffer_size": 101,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1314,
-								1314
+								101,
+								101
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "portfolio/Chris-Linn.html",
+					"file": "/E/Ubuntu/user/projects/git/work/hello/lib/style.css",
 					"settings":
 					{
-						"buffer_size": 5838,
+						"buffer_size": 20,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2627,
-								2627
+								20,
+								20
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"sublime_auto_complete": true,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 945.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 10080,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2988,
-								2988
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"codeintel": true,
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 353.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1643,7 +863,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 40.0
+		"height": 152.0
 	},
 	"output.git":
 	{
@@ -1664,22 +884,6 @@
 		"selected_items":
 		[
 			[
-				"inde",
-				"index.html"
-			],
-			[
-				"reed12",
-				"portfolio/reed12.html"
-			],
-			[
-				"lan",
-				"portfolio/landscape-retouching.html"
-			],
-			[
-				"cris",
-				"portfolio/Chris-Linn.html"
-			],
-			[
 				"port",
 				"portfolio.html"
 			],
@@ -1694,6 +898,10 @@
 			[
 				"sty",
 				"style.css"
+			],
+			[
+				"inde",
+				"index.html"
 			],
 			[
 				"index",
@@ -1910,6 +1118,10 @@
 			[
 				"sample23",
 				"portfolio/sample23.html"
+			],
+			[
+				"reed12",
+				"portfolio/reed12.html"
 			],
 			[
 				"reed11",
@@ -2174,6 +1386,14 @@
 			[
 				"interio",
 				"portfolio/backup/interior2.html"
+			],
+			[
+				"fashion-re",
+				"portfolio/fashion-retouching.html"
+			],
+			[
+				"edto",
+				"portfolio/editorial-retouching.html"
 			]
 		],
 		"width": 0.0
