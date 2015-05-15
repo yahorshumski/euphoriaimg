@@ -4,7 +4,8 @@
 <title></title>
 <meta http-equiv="Content-Type" content="text/html">
 <link rel="stylesheet" type="text/css" href="../../css/style.css">
-</head>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
 <body>
 <table cellspacing="0" cellpadding="0" border="0">
 <tr class="subhead" align="Left"><th>Name</th><th>Value</th></tr>

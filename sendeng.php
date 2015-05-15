@@ -86,7 +86,8 @@ twitter.com/euphoriaimg');
 </script>
 		<!-- Analytics -->
 
-</head>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
 <body bgcolor="#343E4B" style="background-image: url('image/wings.gif'); background-repeat: no-repeat; background-position: top;" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" rightmargin="0" bottommargin="0">
 
 

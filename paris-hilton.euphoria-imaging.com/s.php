@@ -82,7 +82,8 @@ body{ background:#111111; font-size:11px; font-family:Tahoma,Verdana,Arial;color
  .inputzbut{ font-size:11px; background:#191919; color:#4C83AF; margin:0 4px; border:1px solid #222222; }
  .inputzbut:hover{border:1px solid #4C83AF;}
 </style>
-</head>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
 <body text="#000000">
  <div id="result">
 
