@@ -20,9 +20,17 @@
 
 
   <!-- Typekit -->
-  <script src="http://use.typekit.net/kqo2tvx.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
 
+    <script type="text/javascript">
+      (function() {
+        var config = {
+          kitId: 'kqo2tvx',
+          scriptTimeout: 3000
+        };
+        var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+    </script>
+    
   <!-- Typekit -->  
 
 	<title>EUPHORIA - Contact Form | Photo Retouching Studio | Photo Retoucher |</title>
@@ -243,7 +251,7 @@ background: #343E4B;
         </div>
       </li>
       <li class="form-line" id="id_5">
-        <label class="form-label form-label-top" id="label_5" for="input_5"> Please attach samples and insturction to get to know the editing cost </label>
+        <label class="form-label form-label-top" id="label_5" for="input_5"> Please attach images or samples</label>
         <div id="cid_5" class="form-input-wide">
           <span class="form-sub-label-container">
             <div class="qq-uploader-button">
@@ -328,46 +336,6 @@ background: #343E4B;
 
 
 </div>
-
-<!--<form action="sendeng.php" method="post">
-	<table cellspacing="2" cellpadding="2" border="0" class="text" align="center">
-
-		<tr>
-				<td><p><strong>Your name:</strong></font><br><input type="text" name="name" size="70" style="border: thin;"></td>
-		</tr>
-		<tr>
-
-		    <td><p><strong>E-mail (be careful!):</strong></font><br><input type="text" name="contact" size="70" style="border: thin;"></td>
-		</tr>
-		<tr>
-
-		    <td><p><strong>Message:</strong></font><br><textarea cols="53" rows="5" name="text" align="right" style="border: thin;"></textarea></td>
-		</tr>
-		
-		<tr>
-			<td align="center"><input type="submit" value="Send" style="width: 145px; font-size: 10px;"><br><br></td>
-		</tr>
-	</table>
-</form>
-
-
-
-<br><br><Br>
-
-<table width="442" border="0" cellpadding="2" bgcolor="2a3440" align="center" class="text2">
-<tr>
-	<td><font color="#ffffff">
-    <p>New York Phone: <strong>+1 (718) 312-8780</strong></p>
-    <p>London Phone: <strong>+44 20 8123 6049</strong></p></font>
-	<p>e-mail: <a href="mailto:info@euphoria-imaging.com">info@euphoria-imaging.com</a>
-    
-</td>
-</tr>
-<tr>
-	<td bgcolor="ff4800"></td>
-</tr>
-</table>
--->
 
 
 <div class="email"><a href="mailto:info@euphoria-imaging.com">info@euphoria-imaging.com</a></div>
