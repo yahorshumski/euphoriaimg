@@ -154,8 +154,8 @@ div.addthis_toolbox {
 
 .intro {
 	clear: both;
-	width: 680px;
-	height: 140px;
+	width: 780px;
+	height: 240px;
 	
 	margin: 0 auto 0 auto;
 	
@@ -181,8 +181,12 @@ div.addthis_toolbox {
 .introText {
 	float: left;
 	
-	width: 600px;
-	height: 112px;
+	width: 700px;
+	height: 212px;
+}
+
+.introText p {
+	padding-bottom: 10px;
 }
 
 .cv {

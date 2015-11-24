@@ -140,50 +140,66 @@
 	"buffers":
 	[
 		{
-			"file": "portfolio/landscape-retouching.html",
+			"file": "portfolio/restoration2.html",
 			"settings":
 			{
-				"buffer_size": 5996,
+				"buffer_size": 16118,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "style.css",
+			"file": "tutorials/liquify.html",
 			"settings":
 			{
-				"buffer_size": 5716,
+				"buffer_size": 4649,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "portfolio.html",
+			"file": "portfolio/sample22.html",
 			"settings":
 			{
-				"buffer_size": 22150,
+				"buffer_size": 6663,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "portfolio/night-camp-collage.html",
+			"file": "portfolio/architecture.html",
 			"settings":
 			{
-				"buffer_size": 5815,
+				"buffer_size": 6544,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "portfolio/Chris-Linn.html",
+			"file": "portfolio/retouching11.html",
 			"settings":
 			{
-				"buffer_size": 5838,
+				"buffer_size": 7340,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "portfolio/sample14.html",
 			"settings":
 			{
-				"buffer_size": 10080,
+				"buffer_size": 6611,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "visualisation.html",
+			"settings":
+			{
+				"buffer_size": 8067,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-modelmayhem.html",
+			"settings":
+			{
+				"buffer_size": 10411,
 				"line_ending": "Windows"
 			}
 		}
@@ -191,9 +207,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: up",
 				"Package Control: Upgrade/Overwrite All Packages"
@@ -209,10 +237,6 @@
 			[
 				"gith",
 				"Github: Repository"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
 			],
 			[
 				"PACK",
@@ -307,7 +331,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -324,60 +348,53 @@
 	},
 	"file_history":
 	[
-		"/C/Users/User/Documents/work/site/index.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed12.html",
-		"/C/Users/User/Documents/work/site/portfolio/Chris-Linn.html",
-		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/E/Ubuntu/Vagrantfile",
-		"/E/Work/Ramirez/RAWprocessed/PSD/TIFF/JPEG/5H6A6146.jpg",
-		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
-		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
-		"/E/Ubuntu/user/projects/mysite/mysite/settings.py",
 		"/C/Users/User/Documents/work/site/style.css",
-		"/C/Users/User/Documents/work/site/contact.html",
-		"/C/Users/User/Documents/stydy/companysimulation.py",
-		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/User/Github Tools.sublime-settings",
-		"/C/Users/User/Documents/work/site/.htaccess",
-		"/C/Users/User/Documents/work/site/retouching-clients.html",
+		"/E/Ubuntu/user/.profile",
+		"/C/Users/User/Documents/work/site/index.html",
+		"/C/Users/User/Documents/work/site/portfolio.html",
+		"/C/Users/User/Documents/work/site/favicon.ico",
+		"/C/Users/User/Documents/work/site/index-expert.html",
+		"/C/Users/User/Desktop/test.html",
 		"/C/Users/User/Documents/work/site/thanks.html",
-		"/C/Users/User/Documents/work/site/retouching-faq.html",
-		"/C/Users/User/Documents/work/site/price.html",
-		"/C/Users/User/Documents/work/site/contactOld.html",
-		"/C/Users/User/Documents/work/site/portfolio/skytree.html",
-		"/C/Users/User/Documents/work/site/portfolio/sticco.html",
-		"/C/Users/User/Documents/work/site/portfolio/template2.html",
-		"/C/Users/User/Documents/work/site/portfolio/torso.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation1.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation2.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation3.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation4.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation5.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation6.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation7.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation8.html",
-		"/C/Users/User/Documents/work/site/portfolio/visualisation9.html",
-		"/C/Users/User/Documents/work/site/price-v2.html",
-		"/C/Users/User/Documents/work/site/rendering-service.html",
-		"/C/Users/User/Documents/work/site/retouching-testimonials.html",
-		"/C/Users/User/Documents/work/site/sendeng.php",
-		"/C/Users/User/Documents/work/site/portfolio/reed13.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed2.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed3.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed4.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed5.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed6.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed7.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed8.html",
-		"/C/Users/User/Documents/work/site/portfolio/reed9.html",
-		"/C/Users/User/Documents/work/site/visualisation.html",
+		"/C/Users/User/Documents/work/site/contact.html",
 		"/C/Users/User/Documents/work/site/jewel3.html",
 		"/C/Users/User/Documents/work/site/Johansson1.html",
+		"/C/Users/User/Documents/work/site/lease/index.html",
+		"/C/Users/User/Documents/work/site/lease/test/apacheasp/test.asp",
+		"/C/Users/User/Documents/work/site/lease/test/apacheasp/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/cgi/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/coldfusion/test.cfm",
+		"/C/Users/User/Documents/work/site/lease/test/coldfusion/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/fcgi/fcgi.py",
+		"/C/Users/User/Documents/work/site/lease/test/fcgi/test.fcgi",
+		"/C/Users/User/Documents/work/site/lease/test/fcgi/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/miva/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/perl/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/perl/test.pl",
+		"/C/Users/User/Documents/work/site/lease/test/php/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/php/test.php",
+		"/C/Users/User/Documents/work/site/lease/test/python/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/python/test.py",
+		"/C/Users/User/Documents/work/site/lease/test/ssi/test.html",
+		"/C/Users/User/Documents/work/site/lease/test/ssi/test.shtml",
+		"/C/Users/User/Documents/work/site/link.html",
+		"/C/Users/User/Documents/work/site/movie.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/contact.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/image/a98fdg7098df7g0s98df7g098sd7fg0987sdf09g87s09d8fg70s98df7g09s8df/login/index.htm",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/image/a98fdg7098df7g0s98df7g098sd7fg0987sdf09g87s09d8fg70s98df7g09s8df/login/index2.php",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/index.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/paris-hilton-testimonials.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/paris.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/s.php",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/samples.html",
+		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/upload.html",
 		"/C/Users/User/Documents/work/site/photo-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio-mm.html",
 		"/C/Users/User/Documents/work/site/portfolio-restoration.html",
 		"/C/Users/User/Documents/work/site/portfolio-v2.html",
-		"/C/Users/User/Documents/work/site/portfolio.html",
 		"/C/Users/User/Documents/work/site/portfolio/advertising-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/architecture.html",
+		"/C/Users/User/Documents/work/site/portfolio/automative-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/advertising-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/architecture.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/bratsburg.html",
@@ -386,6 +403,7 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-1.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching2.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/door.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/editorial-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/eriksen.html",
@@ -404,8 +422,11 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/jewel1.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/jewel2.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/jewel3.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/Johansson1.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/johansson2.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/johansson3.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/krone.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/lube1.cfm",
 		"/C/Users/User/Documents/work/site/portfolio/backup/lube1.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/mark1.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/mark2.html",
@@ -451,7 +472,10 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/retouching8.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/retouching9.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/sample1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample10.html"
+		"/C/Users/User/Documents/work/site/portfolio/backup/sample10.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/sample11.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/sample12.html",
+		"/C/Users/User/Documents/work/site/portfolio/backup/sample13.html"
 	],
 	"find":
 	{
@@ -472,6 +496,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"eup",
+			"event",
+			"events",
+			"Text-value",
+			"labe",
+			"name=viewport",
+			"</head>",
+			"  </head>",
 			"\"></",
 			"synced_folder",
 			"contac",
@@ -554,8 +586,7 @@
 			"<li><a href=\"../price.html\">price</a></li>",
 			"<li><a href=\"price.html\">price</a></li>",
 			"B",
-			"\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n\n<html>\n<head>\n	<title>EUPHORIA - Photo Retoucher Portfolio | Advertising Photo Retouching</title>\n	<meta name=\"Description\" content=\"Photo Retoucher Portfolio. Euphoria - Yahor Shumski digital image & photo retouching studio\">\n	<meta name=\"Keywords\" content=\"advertising, portfolio, retouching, photo retouching, digital retouching, image retouching, retoucher, photo retoucher, fashion retouching\">\n\n\n\n  <style type=\"text/css\" media=\"screen\">\n  <!--\n  @import url(\"../style.css\");\n  -->\n\n  @import url(\"reset.css\");\n\n  .photos{\n    background: url(\"advertising-retouching.jpg\") no-repeat;\n    width: 600px;\n    height: 776px;\n    cursor: pointer;\n  }\n\n\n  </style>\n\n\n\n    <link rel=\"shortcut icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n    <link rel=\"icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n\n  <!-- Analytics -->\n  <script type=\"text/javascript\">\n\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-136126-1']);\n    _gaq.push(['_trackPageview']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n\n  </script>\n  <!-- Analytics -->\n\n\n\n  <!--[if IE]><script type='text/javascript' src='js/html5ie.js'></script><![endif]-->\n\n  <script src=\"js/jquery-1.5.2.js\"></script>\n  <!--script src=\"js/functions.js\"></script>\n  <script src=\"js/jani.js\"></script-->\n  <script src=\"js/jphotoschanger.js\"></script>\n\n  <script>\n    $(document).ready(function(){\n      $('#photos').jphotoschanger({ frameWidth: 600, frameHeight: 776, speed: 100, totalFrames: 4 })\n       });\n    \n  </script>\n\n\n\n	 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	</head>\n\n<body bgcolor=\"#343e4b\" alink=\"#3399ff\" vlink=\"#3399ff\" link=\"#3399ff\" style=\"background-image: url('../image/wings.gif'); background-repeat: no-repeat; background-position: top;\">\n\n\n\n  	\n  <div align=\"center\">\n      <a href=\"../index.html\"></a><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n  <h1>photo retouching & 3D visualization</h1><br>\n  </div>\n\n  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  	<div id=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualisation.html\">3D visualisation</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li>	\n        <li><a href=\"../price.html\">price</a></li>\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n  	</ul>\n    </div>\n  </td></tr>\n  </table>\n  <br><br>\n  <!--text used in the movie-->\n  <center>\n  <div id=\"text\">\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p><strong><font color=\"#FFFFFF\">mouse over image to see original</font></strong><br><br>\n\n    <div class=\"photos\" id=\"photos\"></div>\n  <br><br>\n\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p>retoucher and photographer: <a href=\"mailto:info@euphoria-imaging.com\" target=\"_blank\">Yahor Shumski</a><br>\n\n\n  <br><div align=\"center\"><script src=\"http://connect.facebook.net/en_US/all.js#xfbml=1\"></script><fb:like show_faces=\"false\" width=\"100\" colorscheme=\"dark\"></fb:like></div>\n\n  </div>\n  </center>\n</body>\n</html>\n",
+			"\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n\n<html>\n<head>\n	<title>EUPHORIA - Photo Retoucher Portfolio | Advertising Photo Retouching</title>\n	<meta name=\"Description\" content=\"Photo Retoucher Portfolio. Euphoria - Yahor Shumski digital image & photo retouching studio\">\n	<meta name=\"Keywords\" content=\"advertising, portfolio, retouching, photo retouching, digital retouching, image retouching, retoucher, photo retoucher, fashion retouching\">\n\n\n\n  <style type=\"text/css\" media=\"screen\">\n  <!--\n  @import url(\"../style.css\");\n  -->\n\n  @import url(\"reset.css\");\n\n  .photos{\n    background: url(\"advertising-retouching.jpg\") no-repeat;\n    width: 600px;\n    height: 776px;\n    cursor: pointer;\n  }\n\n\n  </style>\n\n\n\n    <link rel=\"shortcut icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n    <link rel=\"icon\" href=\"../favicon.ico\" type=\"image/x-icon\">\n\n  <!-- Analytics -->\n  <script type=\"text/javascript\">\n\n    var _gaq = _gaq || [];\n    _gaq.push(['_setAccount', 'UA-136126-1']);\n    _gaq.push(['_trackPageview']);\n\n    (function() {\n      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n    })();\n\n  </script>\n  <!-- Analytics -->\n\n\n\n  <!--[if IE]><script type='text/javascript' src='js/html5ie.js'></script><![endif]-->\n\n  <script src=\"js/jquery-1.5.2.js\"></script>\n  <!--script src=\"js/functions.js\"></script>\n  <script src=\"js/jani.js\"></script-->\n  <script src=\"js/jphotoschanger.js\"></script>\n\n  <script>\n    $(document).ready(function(){\n      $('#photos').jphotoschanger({ frameWidth: 600, frameHeight: 776, speed: 100, totalFrames: 4 })\n       });\n    \n  </script>\n\n\n\n</head>\n\n<body bgcolor=\"#343e4b\" alink=\"#3399ff\" vlink=\"#3399ff\" link=\"#3399ff\" style=\"background-image: url('../image/wings.gif'); background-repeat: no-repeat; background-position: top;\">\n\n\n\n  	\n  <div align=\"center\">\n      <a href=\"../index.html\"></a><img src=\"../image/header-logo.png\" width=\"158\" height=\"46\" alt=\"euphoria imaging. High-quality Photo Retouching and 3D visualization Services\" border=\"0\"></a><br>\n  <h1>photo retouching & 3D visualization</h1><br>\n  </div>\n\n  <table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr><td>\n  	<div id=\"menu\" align=\"center\">\n      <ul>\n        <li><a href=\"../index.html\">about</a></li>\n        <li><a href=\"../portfolio.html\">portfolio</a></li>\n        <li><a href=\"../visualisation.html\">3D visualisation</a></li>\n        <li><a href=\"../retouching-clients.html\">clients</a></li>	\n        <li><a href=\"../price.html\">price</a></li>\n        <!--<li><a href=\"../retouching-faq.html\">faq</a></li>-->\n        <li><a href=\"../contact.html\">contact</a></li>\n  	</ul>\n    </div>\n  </td></tr>\n  </table>\n  <br><br>\n  <!--text used in the movie-->\n  <center>\n  <div id=\"text\">\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p><strong><font color=\"#FFFFFF\">mouse over image to see original</font></strong><br><br>\n\n    <div class=\"photos\" id=\"photos\"></div>\n  <br><br>\n\n  <p class=\"nav\" style=\"padding-bottom:2em\"><a href=\"photo-compositing.html\">PREV</a>&nbsp; &nbsp; &nbsp; <a href=\"commercial-retouching.html\">NEXT</a></p>\n\n  <p>retoucher and photographer: <a href=\"mailto:info@euphoria-imaging.com\" target=\"_blank\">Yahor Shumski</a><br>\n\n\n  <br><div align=\"center\"><script src=\"http://connect.facebook.net/en_US/all.js#xfbml=1\"></script><fb:like show_faces=\"false\" width=\"100\" colorscheme=\"dark\"></fb:like></div>\n\n  </div>\n  </center>\n</body>\n</html>\n",
 			"</",
 			"d",
 			"jlkj",
@@ -568,6 +599,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"name=\"viewport\"",
+			"	 	<meta name=viewport content=\"width=device-width, initial-scale=1\">\n	</head>",
 			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-136126-1', 'euphoria-imaging.com');\n  ga('send', 'pageview');\n\n</script>",
 			"<script>\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\nga('create', 'UA-136126-1', 'auto');  // Replace with your property ID.\nga('send', 'pageview');\n\n</script>\n",
 			"<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-136126-1']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>",
@@ -616,7 +649,7 @@
 			"<!--<li><a href=\"../price.html\">price</a></li>-->",
 			"<!--<li><a href=\"price.html\">price</a></li>-->"
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -625,518 +658,93 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "portfolio/landscape-retouching.html",
+					"file": "portfolio/restoration2.html",
 					"settings":
 					{
-						"buffer_size": 5996,
+						"buffer_size": 16118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2169,
-								2169
+								376,
+								378
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 900.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "style.css",
+					"file": "tutorials/liquify.html",
 					"settings":
 					{
-						"buffer_size": 5716,
+						"buffer_size": 4649,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2182,
-								2182
+								861,
+								861
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 135.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "portfolio.html",
+					"file": "portfolio/sample22.html",
 					"settings":
 					{
-						"buffer_size": 22150,
+						"buffer_size": 6663,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1070,
-								1070
+								583,
+								583
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": false
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1146,464 +754,153 @@
 				},
 				{
 					"buffer": 3,
-					"file": "portfolio/night-camp-collage.html",
+					"file": "portfolio/architecture.html",
 					"settings":
 					{
-						"buffer_size": 5815,
+						"buffer_size": 6544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1314,
-								1314
+								555,
+								555
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "portfolio/Chris-Linn.html",
+					"file": "portfolio/retouching11.html",
 					"settings":
 					{
-						"buffer_size": 5838,
+						"buffer_size": 7340,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2627,
-								2627
+								632,
+								632
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"sublime_auto_complete": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 945.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "index.html",
+					"file": "portfolio/sample14.html",
 					"settings":
 					{
-						"buffer_size": 10080,
+						"buffer_size": 6611,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2988,
-								2988
+								663,
+								663
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
-							"codeintel": true,
-							"codeintel_database_dir": "~/.codeintel",
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Node.js",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_exclude_scopes_from_complete_triggers":
-							[
-								"comment"
-							],
-							"codeintel_language_settings":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_exclude_dir":
-									[
-										"/build/",
-										"/min/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": false,
-									"codeintel_selected_catalogs":
-									[
-										"jQuery"
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 15,
-									"codeintel_scan_exclude_dir":
-									[
-										"/Applications/MAMP/bin/php/php5.5.3/"
-									],
-									"codeintel_scan_extra_dir":
-									[
-									],
-									"codeintel_scan_files_in_project": true,
-									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
-								},
-								"Python3":
-								{
-									"codeintel_scan_extra_dir":
-									[
-										"/Applications/Sublime Text.app/Contents/MacOS",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
-										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
-									],
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-									],
-									"python3": "/usr/local/bin/python3.3"
-								}
-							},
-							"codeintel_live": true,
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							[
-							],
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-							],
-							"codeintel_snippets": false,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"codeintel_word_completions": "buffer",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 353.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "visualisation.html",
+					"settings":
+					{
+						"buffer_size": 8067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index-modelmayhem.html",
+					"settings":
+					{
+						"buffer_size": 10411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3907,
+								3907
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1656,7 +953,7 @@
 	},
 	"replace":
 	{
-		"height": 62.0
+		"height": 271.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1665,8 +962,60 @@
 		"selected_items":
 		[
 			[
+				"index",
+				"index.html"
+			],
+			[
+				"vis",
+				"visualisation.html"
+			],
+			[
+				"sample14",
+				"portfolio/sample14.html"
+			],
+			[
+				"retouching11",
+				"portfolio/retouching11.html"
+			],
+			[
+				"archi",
+				"portfolio/architecture.html"
+			],
+			[
+				"sample22",
+				"portfolio/sample22.html"
+			],
+			[
+				"liu",
+				"tutorials/liquify.html"
+			],
+			[
+				"rest",
+				"portfolio/restoration2.html"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
 				"inde",
 				"index.html"
+			],
+			[
+				"than",
+				"thanks.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"port",
+				"portfolio.html"
 			],
 			[
 				"reed12",
@@ -1681,10 +1030,6 @@
 				"portfolio/Chris-Linn.html"
 			],
 			[
-				"port",
-				"portfolio.html"
-			],
-			[
 				"night",
 				"portfolio/night-camp-collage.html"
 			],
@@ -1695,18 +1040,6 @@
 			[
 				"sty",
 				"style.css"
-			],
-			[
-				"index",
-				"index.html"
-			],
-			[
-				"style",
-				"style.css"
-			],
-			[
-				"con",
-				"contact.html"
 			],
 			[
 				"faq",
@@ -1749,10 +1082,6 @@
 				"index.html"
 			],
 			[
-				"than",
-				"thanks.html"
-			],
-			[
 				"sky",
 				"portfolio/skytree.html"
 			],
@@ -1763,10 +1092,6 @@
 			[
 				"ind",
 				"index.html"
-			],
-			[
-				"vis",
-				"visualisation.html"
 			],
 			[
 				"styl",
@@ -1945,10 +1270,6 @@
 				"portfolio/sample5.html"
 			],
 			[
-				"sample14",
-				"portfolio/sample14.html"
-			],
-			[
 				"model-ret",
 				"portfolio/model-retouching.html"
 			],
@@ -1987,10 +1308,6 @@
 			[
 				"food",
 				"portfolio/food.html"
-			],
-			[
-				"sample22",
-				"portfolio/sample22.html"
 			],
 			[
 				"sample25",
@@ -2145,10 +1462,6 @@
 				"portfolio/retouching5.html"
 			],
 			[
-				"archi",
-				"portfolio/architecture.html"
-			],
-			[
 				"doo",
 				"portfolio/door.html"
 			],
@@ -2159,22 +1472,6 @@
 			[
 				"restor",
 				"portfolio/restoration2.html"
-			],
-			[
-				"produ",
-				"portfolio/product-retouching.html"
-			],
-			[
-				"model-r",
-				"portfolio/model-retouching.html"
-			],
-			[
-				"je",
-				"portfolio/jewel.html"
-			],
-			[
-				"interio",
-				"portfolio/backup/interior2.html"
 			]
 		],
 		"width": 0.0
