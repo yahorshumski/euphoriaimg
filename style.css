@@ -42,13 +42,19 @@ text-align: center;
 	text-align: left;
 }
 
-.faq .question{
+/*.faq .question{
 	font-size: 18px;
 	font-style: italic;
 	color: #bcbcbc;
 	margin-top: 20px;
 	text-align: center;
-}
+}*/
+
+
+.faq .question{
+	font-weight: bold;
+	margin-top: 20px;
+	}
 
 
 h1 {
@@ -138,8 +144,8 @@ padding-left: 0px;
 }
 
 .menu {display:block; width:650px; margin: 10px auto; height: 30px;}
-.menu ul {font-size: 17px; font-family: "proxima-nova", arial, helvetica,sans-serif;}
-.menu li {float:left; list-style:none; padding-right:65px;}
+.menu ul {font-size: 18px; font-family: "proxima-nova", arial, helvetica,sans-serif;}
+.menu li {float:left; list-style:none; padding-right:35px;}
 .menu li:last-child {padding-right: 0px;}
 .menu a {display:block; padding:5px 7px 5px; color:#ffffff; background:#ff3361; -moz-border-radius: 7px; border-radius: 7px; text-decoration: none;}
 .menu a:hover {background:#fff; color:#000000;}
@@ -155,7 +161,7 @@ div.addthis_toolbox {
 .intro {
 	clear: both;
 	width: 780px;
-	height: 240px;
+	height: 250px;
 	
 	margin: 0 auto 0 auto;
 	
@@ -182,7 +188,7 @@ div.addthis_toolbox {
 	float: left;
 	
 	width: 700px;
-	height: 212px;
+	height: 222px;
 }
 
 .introText p {
@@ -307,7 +313,7 @@ a:hover {
 .map {
 	margin: 30px auto;
 	padding-top: 60px;
-	width: 885px;
+	max-width: 885px;
 	height: 496px;
 	background-image: url("image/map.gif");
 	background-repeat: no-repeat; background-position: top;
@@ -368,7 +374,15 @@ a:hover {
 
 
 
+.centerblock {
+	width: 600px;
+	margin: 30px auto;
 
+}
+
+.centerblock p{
+	padding-bottom: 10px;
+}
 
 
 ul.restoration {
@@ -394,4 +408,3 @@ ul.restoration {
    	margin: 50px 0;
     font-stretch: ultra-condensed;
 }
-

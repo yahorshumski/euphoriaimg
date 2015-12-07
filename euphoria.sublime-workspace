@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"introText"
+			],
+			[
 				"bac",
 				"background"
 			],
@@ -30,10 +38,6 @@
 			[
 				"pad",
 				"padding-bottom"
-			],
-			[
-				"padd",
-				"padding-left"
 			],
 			[
 				"alr",
@@ -140,66 +144,18 @@
 	"buffers":
 	[
 		{
-			"file": "portfolio/restoration2.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 16118,
+				"buffer_size": 11659,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "tutorials/liquify.html",
+			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 4649,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/sample22.html",
-			"settings":
-			{
-				"buffer_size": 6663,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/architecture.html",
-			"settings":
-			{
-				"buffer_size": 6544,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/retouching11.html",
-			"settings":
-			{
-				"buffer_size": 7340,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "portfolio/sample14.html",
-			"settings":
-			{
-				"buffer_size": 6611,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "visualisation.html",
-			"settings":
-			{
-				"buffer_size": 8067,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index-modelmayhem.html",
-			"settings":
-			{
-				"buffer_size": 10411,
+				"buffer_size": 5917,
 				"line_ending": "Windows"
 			}
 		}
@@ -348,50 +304,124 @@
 	},
 	"file_history":
 	[
-		"/C/Users/User/Documents/work/site/style.css",
-		"/E/Ubuntu/user/.profile",
-		"/C/Users/User/Documents/work/site/index.html",
-		"/C/Users/User/Documents/work/site/portfolio.html",
-		"/C/Users/User/Documents/work/site/favicon.ico",
-		"/C/Users/User/Documents/work/site/index-expert.html",
-		"/C/Users/User/Desktop/test.html",
-		"/C/Users/User/Documents/work/site/thanks.html",
-		"/C/Users/User/Documents/work/site/contact.html",
-		"/C/Users/User/Documents/work/site/jewel3.html",
-		"/C/Users/User/Documents/work/site/Johansson1.html",
-		"/C/Users/User/Documents/work/site/lease/index.html",
-		"/C/Users/User/Documents/work/site/lease/test/apacheasp/test.asp",
-		"/C/Users/User/Documents/work/site/lease/test/apacheasp/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/cgi/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/coldfusion/test.cfm",
-		"/C/Users/User/Documents/work/site/lease/test/coldfusion/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/fcgi/fcgi.py",
-		"/C/Users/User/Documents/work/site/lease/test/fcgi/test.fcgi",
-		"/C/Users/User/Documents/work/site/lease/test/fcgi/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/miva/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/perl/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/perl/test.pl",
-		"/C/Users/User/Documents/work/site/lease/test/php/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/php/test.php",
-		"/C/Users/User/Documents/work/site/lease/test/python/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/python/test.py",
-		"/C/Users/User/Documents/work/site/lease/test/ssi/test.html",
-		"/C/Users/User/Documents/work/site/lease/test/ssi/test.shtml",
-		"/C/Users/User/Documents/work/site/link.html",
+		"/C/Users/User/Documents/work/site/price.html",
+		"/C/Users/User/Documents/work/site/retouching-faq.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/architecture.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/bratsburg.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/cleary.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/cleary2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/colorizing-1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/colorizing-2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/commercial-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/commercial-retouching2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/door.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/editorial-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/eriksen.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/fashion-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/fashion.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/food.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/garcia.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/garcia2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/garcia3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/garsia3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/hair-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/interior-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/interior1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/interior2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/jewel.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/jewel1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/jewel2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/Johansson1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/Johansson2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/johansson3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/krone.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/lube1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/mark1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/mark2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/mark3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/mark4.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/mark5.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/model-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/movie.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/photo-editing-1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/photo-editing-2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/pirate.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/product-retouching.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed10.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed11.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed12.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed13.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed4.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed5.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed6.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed7.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed8.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/reed9.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/restoration.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/restoration2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/restoration3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching10.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching11.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching12.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching13.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching14.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching4.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching5.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching6.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching7.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching8.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/retouching9.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample10.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample11.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample12.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample13.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample14.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample15.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample16.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample17.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample18.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample19.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample20.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample21.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample22.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample23.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample24.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample25.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample26.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample27.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample27a.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample28.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample28a.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample29.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample4.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample5.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample6.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample7.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample8.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sample9.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/sticco.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/template2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/torso.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation1.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation2.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation3.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation4.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation5.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation6.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation7.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation8.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/visualisation9.html",
+		"/C/Users/User/Documents/work/site/image/portfolio/~tm23E.html",
 		"/C/Users/User/Documents/work/site/movie.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/contact.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/image/a98fdg7098df7g0s98df7g098sd7fg0987sdf09g87s09d8fg70s98df7g09s8df/login/index.htm",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/image/a98fdg7098df7g0s98df7g098sd7fg0987sdf09g87s09d8fg70s98df7g09s8df/login/index2.php",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/index.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/paris-hilton-testimonials.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/paris.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/s.php",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/samples.html",
-		"/C/Users/User/Documents/work/site/paris-hilton.euphoria-imaging.com/upload.html",
-		"/C/Users/User/Documents/work/site/photo-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio-mm.html",
-		"/C/Users/User/Documents/work/site/portfolio-restoration.html",
-		"/C/Users/User/Documents/work/site/portfolio-v2.html",
 		"/C/Users/User/Documents/work/site/portfolio/advertising-retouching.html",
 		"/C/Users/User/Documents/work/site/portfolio/architecture.html",
 		"/C/Users/User/Documents/work/site/portfolio/automative-retouching.html",
@@ -401,81 +431,7 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/cleary.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/cleary2.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/commercial-retouching2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/door.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/editorial-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/eriksen.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/fashion-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/fashion.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/food.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garcia3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/garsia3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/hair-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/interior2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/jewel3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/Johansson1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/johansson2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/johansson3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/krone.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/lube1.cfm",
-		"/C/Users/User/Documents/work/site/portfolio/backup/lube1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/mark1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/mark2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/mark3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/mark4.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/mark5.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/model-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/movie.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/photo-composing.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/photo-editing-1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/photo-editing-2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/pirate.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/product-retouching.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed10.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed11.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed12.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed13.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed4.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed5.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed6.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed7.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed8.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/reed9.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration2b.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/restoration3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching10.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching11.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching12.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching13.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching14.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching3.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching4.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching5.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching6.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching7.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching8.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/retouching9.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample10.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample11.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample12.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/sample13.html"
+		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html"
 	],
 	"find":
 	{
@@ -496,6 +452,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<!--<li><a href=\"../price.html\">price</a></li>-->",
+			"<!--<li><a href=\"price.html\">price</a></li>-->",
+			"500px",
 			"eup",
 			"event",
 			"events",
@@ -599,6 +558,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"<li><a href=\"../price.html\">price</a></li>",
+			"<li><a href=\"price.html\">price</a></li>",
 			"name=\"viewport\"",
 			"	 	<meta name=viewport content=\"width=device-width, initial-scale=1\">\n	</head>",
 			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-136126-1', 'euphoria-imaging.com');\n  ga('send', 'pageview');\n\n</script>",
@@ -658,54 +619,54 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "portfolio/restoration2.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 16118,
+						"buffer_size": 11659,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								376,
-								378
+								3136,
+								3136
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
 							"remote_loading": false,
+							"spell_check": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 887.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "tutorials/liquify.html",
+					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 4649,
+						"buffer_size": 5917,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								861,
-								861
+								2493,
+								2493
 							]
 						],
 						"settings":
@@ -713,194 +674,11 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "portfolio/sample22.html",
-					"settings":
-					{
-						"buffer_size": 6663,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								583,
-								583
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "portfolio/architecture.html",
-					"settings":
-					{
-						"buffer_size": 6544,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								555,
-								555
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "portfolio/retouching11.html",
-					"settings":
-					{
-						"buffer_size": 7340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								632,
-								632
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "portfolio/sample14.html",
-					"settings":
-					{
-						"buffer_size": 6611,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								663,
-								663
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "visualisation.html",
-					"settings":
-					{
-						"buffer_size": 8067,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								701,
-								701
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "index-modelmayhem.html",
-					"settings":
-					{
-						"buffer_size": 10411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3907,
-								3907
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1035.0,
+						"translation.y": 1890.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -962,7 +740,43 @@
 		"selected_items":
 		[
 			[
+				"price",
+				"price.html"
+			],
+			[
 				"index",
+				"index.html"
+			],
+			[
+				"faq",
+				"retouching-faq.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"pri",
+				"price.html"
+			],
+			[
+				"clie",
+				"retouching-clients.html"
+			],
+			[
+				"clien",
+				"retouching-clients.html"
+			],
+			[
+				"port",
+				"portfolio.html"
+			],
+			[
+				"in",
 				"index.html"
 			],
 			[
@@ -1006,18 +820,6 @@
 				"thanks.html"
 			],
 			[
-				"style",
-				"style.css"
-			],
-			[
-				"con",
-				"contact.html"
-			],
-			[
-				"port",
-				"portfolio.html"
-			],
-			[
 				"reed12",
 				"portfolio/reed12.html"
 			],
@@ -1042,20 +844,8 @@
 				"style.css"
 			],
 			[
-				"faq",
-				"retouching-faq.html"
-			],
-			[
-				"clien",
-				"retouching-clients.html"
-			],
-			[
 				".h",
 				".htaccess"
-			],
-			[
-				"price",
-				"price.html"
 			],
 			[
 				"th",
@@ -1076,10 +866,6 @@
 			[
 				"fa",
 				"retouching-faq.html"
-			],
-			[
-				"in",
-				"index.html"
 			],
 			[
 				"sky",
@@ -1378,10 +1164,6 @@
 				"style.css"
 			],
 			[
-				"clie",
-				"retouching-clients.html"
-			],
-			[
 				"portf",
 				"portfolio.html"
 			],
@@ -1468,10 +1250,6 @@
 			[
 				"retouching5",
 				"portfolio/retouching5.html"
-			],
-			[
-				"restor",
-				"portfolio/restoration2.html"
 			]
 		],
 		"width": 0.0
