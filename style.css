@@ -152,6 +152,8 @@ padding-left: 0px;
 .menu li.cur a {background:#b31d3f; color:#fff;}
 .menu li.cur a:hover {background: #ff3361;}
 
+
+
 div.addthis_toolbox {
 	width: 370px;
  	margin: 15px auto;
@@ -373,7 +375,7 @@ a:hover {
 }
 
 .red {
-	color: #ff3366;
+	color: #ff3366 !important;
 }
 
 
@@ -417,7 +419,20 @@ ul.restoration {
    -webkit-column-count:3;  
    -moz-column-count:3;  
    column-count:3;  
-   -webkit-column-gap: 10px;  
-   -moz-column-gap: 10px;  
-   column-gap: 10px;
+   -webkit-column-gap: 15px;  
+   -moz-column-gap: 15px;  
+   column-gap: 15px;
 }
+
+.columns ul {
+	margin: 0 0 0 0;
+	padding: 0 0 0;
+
+}
+
+.columns li {
+	list-style:none;
+	text-align: left;
+	padding-bottom: 5px;
+}
+
