@@ -147,7 +147,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11659,
+				"buffer_size": 10284,
 				"line_ending": "Windows"
 			}
 		},
@@ -155,7 +155,23 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 5917,
+				"buffer_size": 6261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "price.html",
+			"settings":
+			{
+				"buffer_size": 4545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "retouching-faq.html",
+			"settings":
+			{
+				"buffer_size": 4481,
 				"line_ending": "Windows"
 			}
 		}
@@ -304,6 +320,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/User/Documents/work/site/style.css",
+		"/C/Users/User/Documents/work/site/index.html",
 		"/C/Users/User/Documents/work/site/price.html",
 		"/C/Users/User/Documents/work/site/retouching-faq.html",
 		"/C/Users/User/Documents/work/site/image/portfolio/architecture.html",
@@ -429,9 +447,7 @@
 		"/C/Users/User/Documents/work/site/portfolio/backup/architecture.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/bratsburg.html",
 		"/C/Users/User/Documents/work/site/portfolio/backup/cleary.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/cleary2.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-1.html",
-		"/C/Users/User/Documents/work/site/portfolio/backup/colorizing-2.html"
+		"/C/Users/User/Documents/work/site/portfolio/backup/cleary2.html"
 	],
 	"find":
 	{
@@ -452,6 +468,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"li",
+			"center",
 			"<!--<li><a href=\"../price.html\">price</a></li>-->",
 			"<!--<li><a href=\"price.html\">price</a></li>-->",
 			"500px",
@@ -627,28 +645,27 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 11659,
+						"buffer_size": 10284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3136,
-								3136
+								7669,
+								7669
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
 							"remote_loading": false,
-							"spell_check": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 887.0,
+						"translation.y": 2325.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -658,15 +675,15 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 5917,
+						"buffer_size": 6261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2493,
-								2493
+								6124,
+								6124
 							]
 						],
 						"settings":
@@ -678,7 +695,68 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1890.0,
+						"translation.y": 5892.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "price.html",
+					"settings":
+					{
+						"buffer_size": 4545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2277,
+								2277
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "retouching-faq.html",
+					"settings":
+					{
+						"buffer_size": 4481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2807,
+								2807
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -740,8 +818,16 @@
 		"selected_items":
 		[
 			[
+				"fa",
+				"retouching-faq.html"
+			],
+			[
 				"price",
 				"price.html"
+			],
+			[
+				"styl",
+				"style.css"
 			],
 			[
 				"index",
@@ -864,10 +950,6 @@
 				"retouching-clients.html"
 			],
 			[
-				"fa",
-				"retouching-faq.html"
-			],
-			[
 				"sky",
 				"portfolio/skytree.html"
 			],
@@ -878,10 +960,6 @@
 			[
 				"ind",
 				"index.html"
-			],
-			[
-				"styl",
-				"style.css"
 			],
 			[
 				"nigh",
