@@ -2,11 +2,11 @@
 ## Images
 #########
 
-*.jpg
-*.gif
-*.jpeg
-*.png
-*.swf
+#*.jpg
+#*.gif
+#*.jpeg
+#*.png
+#*.swf
 *.fla
 *.zip
 *.rar
