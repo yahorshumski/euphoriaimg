@@ -1,0 +1,128 @@
+body{
+	width:100%;
+	background: #343e4b url('../img/page-bg.png') no-repeat 50% 0;
+	font: normal 15px/1.2 'Proxima Nova', 'proxima-nova', Arial, sans-serif;
+	color: #FFF;
+}
+body.noscroll {overflow: hidden !important}
+a{
+	color: #ff3366;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+h1{
+	font: normal 31px/1.2 'freight-display-pro', Arial, sans-serif;
+	text-align: center;
+	margin-bottom: 8px;  
+}
+h2{
+	font: bolder normal 32px/1 'ff-cocon-web-pro', Arial, sans-serif;
+	color: #FFF;
+	letter-spacing: -1px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+h3{
+	font-size: 18px;
+}
+h4{
+	font-size: 16px;
+}
+h5{
+	font-size: 14px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"]{
+
+}
+select{
+
+}
+textarea{
+
+}
+p + p{
+	margin-top: 12px;
+}
+small{
+	font-size: 11px;
+}
+/*
+@font-face {
+	font-family: "Plumb";
+	src: url("../fonts/plumb.eot");
+	src: local("☺"), 
+		url("../fonts/plumb.woff"), 
+		url("../fonts/plumb.ttf");
+}
+*/
+table{width: 100%}
+table th{
+
+}
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.25em;
+}
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+.placeholder {color: #999}
+.noscript,
+.chromeframe{
+	width: 100%;
+	background: #fee4a9;	
+	font-size: 14px;
+	line-height: 2;
+	text-align: center;
+	box-shadow: 0 -3px 2px -2px #c1ae81 inset;
+}
+.noscript a,
+.chromeframe a{
+	text-decoration: underline;
+}
+.text-center{
+	text-align: center;
+}
+
+
+
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768px){
+
+
+}   
+@media (max-width: 600px){
+	h1{
+		font-size: 26px;
+	}
+	h2{
+		font-size: 26px;
+	}
+	.mobile-hidden{
+		display: none;
+	}
+}
+@media (max-width: 320px){
+
+
+}
+

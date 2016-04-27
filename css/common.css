@@ -1,0 +1,200 @@
+.section-page{
+	max-width: 850px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+.section-page article.article{
+	margin-bottom: 26px;
+}
+.section-page article.article .figure-article-right{
+	clear: right;
+	float: right;
+	margin: 0 0 10px 20px;
+}
+.section-page article.article.article-narrow{
+	max-width: 565px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.section-page ul.partners-list{
+	margin-bottom: 30px;
+}
+.section-page ul.partners-list li{
+	float: left;
+	/*width: 170px;*/
+	width: 20%;
+	height: 30px;
+	text-align: center;
+}
+.section-page .figure-section{
+	margin-bottom: 28px;
+}
+.section-page .figure-section img{
+	max-width: 100%;
+}
+.section-page .b-projects{
+	margin-bottom: 28px;
+}
+.section-page .b-projects ul.projects-list{
+	/*margin: 0 -7px;*/
+}
+.section-page .b-projects ul.projects-list li{
+	float: left;
+	width: 33.3332%;
+	/*margin: 0 7px;*/
+}
+.section-page .b-projects ul.projects-list li a{
+	
+}
+.section-page .b-projects ul.projects-list li a img{
+	width: 100%;
+/*	border: 2px solid #3399ff;
+	border-radius: 7px;*/
+}
+.section-page .b-projects ul.projects-list li a:hover img{
+	border-color: #ff3366;
+	opacity: 0.5;	
+}
+.section-page .b-services{
+	margin-bottom: 18px;
+}
+.section-page .b-services ul.services-list{
+	-webkit-column-count: 3;
+	   -moz-column-count: 3;
+			column-count: 3;
+	-webkit-column-gap: 40px;
+	   -moz-column-gap: 40px;
+			column-gap: 40px;
+}
+
+.section-page .b-clients{
+	background: url('../img/map.gif') no-repeat 50% 0;
+	box-sizing: border-box;
+	padding-top: 60px;
+	min-height: 496px;
+}
+.section-page .b-clients ul.clients-list{
+	font: bolder normal 32px/1 'ff-cocon-web-pro', Arial, sans-serif;
+	color: #ff3366;
+	letter-spacing: -1px;
+	text-align: center;
+}
+.section-page .b-clients ul.clients-list li.etc{
+	color: #ffffff;
+	font-size: 22px;
+}
+
+.section-page .b-faq{
+	max-width: 565px;
+	margin: 0 auto;
+}
+.section-page .b-faq .faq-question{
+	font-weight: bold;
+}
+.section-page .b-faq .faq-answer{}
+.section-page .b-faq .faq-answer + .faq-question{
+	margin-top: 20px;	
+}
+
+.section-page .b-portfolio-show.portfolio-show-vertical{
+  background: no-repeat;
+  width: 600px;
+  height: 900px;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+
+.b-contacts-form{
+	max-width: 565px;
+	margin: 0 auto;
+	text-align: center;
+}
+.b-contacts-form textarea.form-textarea{
+	width: 100% !important;
+}
+.b-contacts-form .qq-uploader{
+	margin: 0 auto;
+}
+.b-contacts-form .qq-upload-button {
+	background: #ff3361;
+	border: 1px solid #cc0447 !important;
+	background: #ff5ca0;
+	background: -moz-linear-gradient(top, #ff5ca0 0%, #ff036c 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff5ca0), color-stop(100%,#ff036c));
+	background: linear-gradient(top, #ff5ca0 0%, #ff036c 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5ca0', endColorstr='#ff036c', GradientType=0 );
+}
+.b-contacts-form .qq-upload-button:hover {
+	border: 1px solid #cc0447 !important;
+	background: #ff5ca0;
+	background: -moz-linear-gradient(top, #ff5ca0 0%, #ff036c 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff5ca0), color-stop(100%,#ff036c));
+	background: linear-gradient(top, #ff5ca0 0%, #ff036c 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5ca0', endColorstr='#ff036c', GradientType=0 );
+}
+
+
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768px){
+	.section-page{
+		overflow: hidden;
+	}
+	.section-page ul.partners-list li{
+		width: 33.3332%;
+		margin-bottom: 10px;
+	}
+
+}   
+@media (max-width: 600px){
+	.section-page ul.partners-list li{
+		width: 50%;
+		margin-bottom: 10px;
+	}
+	.section-page .b-projects ul.projects-list li{
+		width: 50%;
+	}
+	.section-page .b-services ul.services-list{
+		-webkit-column-count: 2;
+		   -moz-column-count: 2;
+				column-count: 2;
+		-webkit-column-gap: 20px;
+		   -moz-column-gap: 20px;
+				column-gap: 20px;
+	}
+}
+@media (max-width: 320px){
+/*	.section-page article.article{
+		margin-bottom: 26px;
+	}*/
+	.section-page article.article .figure-article-right{
+	float: none;
+		margin-left: 0;
+	}
+	.section-page article.article .figure-article-right img{
+		width: 100%;
+	}
+	.section-page .b-projects ul.projects-list li{
+		width: 100%;
+	}
+	.section-page .b-services ul.services-list{
+		-webkit-column-count: 1;
+		   -moz-column-count: 1;
+				column-count: 1;
+		-webkit-column-gap: 0;
+		   -moz-column-gap: 0;
+				column-gap: 0;
+	}
+	.form-line.form-line-column{
+		float: none;
+		display: block;
+	}
+	#input_4{
+		width: 100%;
+	}
+}
+
